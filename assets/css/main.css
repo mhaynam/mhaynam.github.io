@@ -3765,10 +3765,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5144e3, #665be3);
-				background-image: -webkit-linear-gradient(to right, #5144e3, #665be3);
-				background-image: -ms-linear-gradient(to right, #5144e3, #665be3);
-				background-image: linear-gradient(to right, #5144e3, #665be3);
+				background-image: -moz-linear-gradient(to right, #2B4162, #D7B377);
+				background-image: -webkit-linear-gradient(to right, #2B4162, #D7B377);
+				background-image: -ms-linear-gradient(to right, #2B4162, #D7B377);
+				background-image: linear-gradient(to right, #2B4162, #D7B377);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3857,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #8F754F;
 						}
 
 		}
