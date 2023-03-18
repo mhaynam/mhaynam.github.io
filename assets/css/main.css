@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #2f2f99;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #243296, #adacac);
-				background-image: -webkit-linear-gradient(to right, #243296, #adacac);
-				background-image: -ms-linear-gradient(to right, #243296, #adacac);
-				background-image: linear-gradient(to right, #243296, #adacac);
+				background-image: -moz-linear-gradient(to right, #2f2f99, #adacac);
+				background-image: -webkit-linear-gradient(to right, #2f2f99, #adacac);
+				background-image: -ms-linear-gradient(to right, #2f2f99, #adacac);
+				background-image: linear-gradient(to right, #2f2f99, #adacac);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
